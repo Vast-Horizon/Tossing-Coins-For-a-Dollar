@@ -8,6 +8,6 @@ The game is over when your balance >= $1
 if your balance is exactly $1, you win the game.
 You lose if your balance exceeds $1.
 ********************************************
-
+![](demo1.jpg)
 Developer: Fiavi Y.
 1/30/2021
